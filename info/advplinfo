@@ -1,2 +1,4 @@
 ##
-[name AdvPL-IDE; version 0.2024.0]
+[name <AdvPL-IDE> version <0.2024.0>]
+[source <https://github.com/AdvLang/IDE/archive/refs/heads/main.zip>]
+[binary <>]
